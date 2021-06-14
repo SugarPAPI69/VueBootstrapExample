@@ -3,8 +3,9 @@
     <b-col>
       <b-card
         :title="name"
-        img-src="https://picsum.photos/600/300/?image=25"
+        img-src="https://picsum.photos/600/300/?image=15"
         img-alt="Image"
+        bg-variant="primary"
         img-top
         tag="article"
         style="max-width: 20rem;"
